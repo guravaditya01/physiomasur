@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.153f3430.css",
+    "main.js": "/static/js/main.bc19acc6.js",
+    "static/js/787.3b3808b3.chunk.js": "/static/js/787.3b3808b3.chunk.js",
+    "static/media/epscGF1G0TMuzoRn7PPKe-transformed-transformed.png": "/static/media/epscGF1G0TMuzoRn7PPKe-transformed-transformed.a498cec30e25b6285f1d.png",
+    "static/media/clglogo.png": "/static/media/clglogo.cf9d12a6b7a87de22976.png",
+    "static/media/trustlogo.png": "/static/media/trustlogo.39fa4c570270728dce9c.png",
+    "static/media/clg_photo.jpg": "/static/media/clg_photo.9603f1229beabf64b58b.jpg",
+    "static/media/epscGF1G0TMuzoRn7PPKe-transformed_mobile.png": "/static/media/epscGF1G0TMuzoRn7PPKe-transformed_mobile.bb7694052559f9965d02.png",
+    "static/media/5a00b4b6-c77b-4cf4-a233-a516c244c5ec.jpg": "/static/media/5a00b4b6-c77b-4cf4-a233-a516c244c5ec.c1ca9b81124ecdea4564.jpg",
+    "static/media/ef534873-0eab-4fbd-a8a4-f56cae9885be.jpg": "/static/media/ef534873-0eab-4fbd-a8a4-f56cae9885be.b3a6dbe5d4ce001d4d2b.jpg",
+    "static/media/4674709c-578c-44db-bd84-e5f898cf909d.jpg": "/static/media/4674709c-578c-44db-bd84-e5f898cf909d.fdaa669014d138903827.jpg",
+    "static/media/0d8e5710-6713-4b40-b710-89300da02269.jpg": "/static/media/0d8e5710-6713-4b40-b710-89300da02269.87b0ebdcc1ab722d7d97.jpg",
+    "static/media/8c227be9-efae-4a62-a491-14522d59cff6.jpg": "/static/media/8c227be9-efae-4a62-a491-14522d59cff6.5bb6d5e6e0a5067f8d73.jpg",
+    "static/media/cf403ddf-1639-48ba-a9c2-da7f99b3f746.jpg": "/static/media/cf403ddf-1639-48ba-a9c2-da7f99b3f746.dca80214b5e6514b9d7f.jpg",
+    "static/media/d7432a31-4e2f-4c54-9b07-e468e6585f9d.jpg": "/static/media/d7432a31-4e2f-4c54-9b07-e468e6585f9d.42e52ba0210de2117b52.jpg",
+    "static/media/8339abf4-2499-4192-8ebc-9cd1ab2475a2.jpg": "/static/media/8339abf4-2499-4192-8ebc-9cd1ab2475a2.f0f007fc763f8342e164.jpg",
+    "static/media/090fd743-8020-4840-8b54-ef0f3be73e98.jpg": "/static/media/090fd743-8020-4840-8b54-ef0f3be73e98.8c13ba67fc22af72ef48.jpg",
+    "static/media/870e8818-d394-4fb5-a22e-41f7a9a0d0c2.jpg": "/static/media/870e8818-d394-4fb5-a22e-41f7a9a0d0c2.25edeff7585536063064.jpg",
+    "static/media/b25e3e1d-c880-474a-b000-3fbff7135ed3.jpg": "/static/media/b25e3e1d-c880-474a-b000-3fbff7135ed3.2d22c035860732f6af2d.jpg",
+    "static/media/76ae304d-7716-4ecd-89a7-244ed74145fb.jpg": "/static/media/76ae304d-7716-4ecd-89a7-244ed74145fb.8f31bd57eca855641bda.jpg",
+    "static/media/3b5dd761-b242-4c94-a020-2b710bf08c49.jpg": "/static/media/3b5dd761-b242-4c94-a020-2b710bf08c49.3a74c2b3df64b0a535d9.jpg",
+    "static/media/74314166-4df9-46dc-9615-858c4f5aaeb6.jpg": "/static/media/74314166-4df9-46dc-9615-858c4f5aaeb6.af212d8b70f77b7d93ec.jpg",
+    "static/media/ffb146a4-d84f-403d-bf7c-6d64406aa262.jpg": "/static/media/ffb146a4-d84f-403d-bf7c-6d64406aa262.07ec408cb3008dafad10.jpg",
+    "static/media/5aaa2e19-1f4e-4b1b-85f7-35bb01770b95.jpg": "/static/media/5aaa2e19-1f4e-4b1b-85f7-35bb01770b95.ea2116517c84e1f0a0af.jpg",
+    "static/media/5846a79d-3a11-4fd5-a247-a7f1fbd9571e.jpg": "/static/media/5846a79d-3a11-4fd5-a247-a7f1fbd9571e.28425c4d367f49ba4a51.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.153f3430.css.map": "/static/css/main.153f3430.css.map",
+    "main.bc19acc6.js.map": "/static/js/main.bc19acc6.js.map",
+    "787.3b3808b3.chunk.js.map": "/static/js/787.3b3808b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153f3430.css",
+    "static/js/main.bc19acc6.js"
+  ]
+}
